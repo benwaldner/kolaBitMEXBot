@@ -1,3 +1,8 @@
+# Personal notes:
+
+Also check: https://github.com/benwaldner/kolaAnalyser
+
+
 Kola BitMEX Bot
 ===============
 
